@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+	"revision": "cm-12.0"
+  }
+    {
+    "remote": "tm",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-12.0"
+  }
+]
