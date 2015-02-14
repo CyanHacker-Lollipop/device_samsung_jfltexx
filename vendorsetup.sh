@@ -1,2 +1,3 @@
-add_lunch_combo ch_jfltexx-eng
+add_lunch_combo ch_jfltexx-user
+add_lunch_combo ch_jfltexx-userdebug
 
