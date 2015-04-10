@@ -20,6 +20,10 @@
 # definition file).
 #
 
+#Disable some modules to allow the build to complete
+LOCAL_DISABLE_O3 := \
+	hwcomposer.msm8960
+
 # inherit from common jf
 include device/samsung/jf-common/BoardConfigCommon.mk
 
